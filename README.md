@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/conductive-afm-mapping-explainer/
 
+Repository: https://github.com/mizcausevic-dev/conductive-afm-mapping-explainer
+
 ## What this is
 
 An interactive anatomy plate for Conductive AFM Mapping. Play, scrub, or jump the five stages. The same frame always draws the same picture.
